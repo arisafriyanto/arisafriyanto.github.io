@@ -1,0 +1,11 @@
+username	:	epiz_25242603
+Label		:	Website for bunurchickmahcantiik.cf
+Main Domain	:	clmgqrqf.epizy.com
+Password	:	cIipxjmB6FL84Z
+
+
+
+FTP Username	:	epiz_25242603
+FTP Password	:	cIipxjmB6FL84Z
+FTP Hostname	:	ftpupload.net
+FTP Port		:	21
